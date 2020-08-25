@@ -63,9 +63,9 @@ So far everything you have done could have easily been done by setting the objec
 * The speed of the waves increases with time.
 
 <p align="center">
-  <img src="Gifs/Q5a.gif" width="500">
-  <img src="Gifs/Q5b.gif" width="500">
-  <img src="Gifs/Q5c.gif" width="500">
+  <img src="Gifs/Q5a.gif" width="250">
+  <img src="Gifs/Q5b.gif" width="250">
+  <img src="Gifs/Q5c.gif" width="250">
 </p>
 
 6. **Challenge** Modify the shader so that the wave effect is occurring in view space rather than model space. This will result in the waves travelling through the object relative to the camera’s orientation. You should verify the effect works by switching to the ‘Scene’ tab and rotating camera around. Hint: Recall that the MVP matrix is a combination of three linear transformations. Presently we displace vertices before applying any of them (they are displaced in model space). You’ll want to change this so that displacement occurs after applying the view matrix. Refer to https://docs.unity3d.com/Manual/SL-UnityShaderVariables.html for some additional variables that could be useful.
