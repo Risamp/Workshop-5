@@ -28,7 +28,7 @@ pipeline. Note that this is not executed on the CPU, but rather the GPU (on a gr
 * Modify the vector so that the plane is displaced -5 units in the y-axis (‘up’).
 
 <p align="center">
-  <img src="Gifs/Q2a.png" width="500">
+  <img src="Gifs/Q2a.png" width="300">
 </p>
 
 * Modify the vector so that the plane moves upwards. A built-in uniform variable named `_Time.y` should help here. Note that _Time is a vector whereby the second component contains the number of seconds elapsed since the start of the scene. For reference see: https://docs.unity3d.com/Manual/SL-UnityShaderVariables.html
