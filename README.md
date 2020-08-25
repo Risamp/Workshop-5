@@ -31,7 +31,7 @@ pipeline. Note that this is not executed on the CPU, but rather the GPU (on a gr
   <img src="Gifs/Q2a.png" width="500">
 </p>
 
-* Modify the vector so that the plane moves upwards. A built-in uniform variable named `_Time.y` should help here. [\* Note](#Note)
+* Modify the vector so that the plane moves upwards. A built-in uniform variable named `_Time.y` should help here. Note that _Time is a vector whereby the second component contains the number of seconds elapsed since the start of the scene. For reference see: https://docs.unity3d.com/Manual/SL-UnityShaderVariables.html
 
 <p align="center">
   <img src="Gifs/Q2b.gif" width="500">
@@ -74,5 +74,3 @@ So far everything you have done could have easily been done by setting the objec
   <img src="Gifs/Q6.gif" width="500">
 </p>
 
-#Note 
-_Time is a vector whereby the second component contains the number of seconds elapsed since the start of the scene. For reference see: https://docs.unity3d.com/Manual/SL-UnityShaderVariables.html
