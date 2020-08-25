@@ -74,4 +74,5 @@ So far everything you have done could have easily been done by setting the objec
   <img src="Gifs/Q6.gif" width="500">
 </p>
 
-## Note - _Time is a vector whereby the second component contains the number of seconds elapsed since the start of the scene. For reference see: https://docs.unity3d.com/Manual/SL-UnityShaderVariables.html
+#Note 
+_Time is a vector whereby the second component contains the number of seconds elapsed since the start of the scene. For reference see: https://docs.unity3d.com/Manual/SL-UnityShaderVariables.html
