@@ -25,7 +25,7 @@ pipeline. Note that this is not executed on the CPU, but rather the GPU (on a gr
 
 2. Open `WaveShader.shader`. Open it and examine the vertex shader. Take note of the displacement vector. What effect does it have?
 
-* Modify the vector so that the plane is displaced -5 units in the y-axis (‘up’).
+* Modify the vector so that the plane is displaced 5 units in the y-axis (‘up’).
 
 <p align="center">
   <img src="Gifs/Q2a.png" width="300">
