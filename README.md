@@ -17,7 +17,7 @@ pipeline. Note that this is not executed on the CPU, but rather the GPU (on a gr
 
 # Task:
 
-1. Open `MainScene.unity` in Unity. You should see a textured plane object on the screen. Currently the ‘Standard’ Unity shader is applied to the plane. Your first task is to assign the shader WaveShader.shader to the plane. This can be done without any code. Recall that shaders are part of an object’s material.
+1. Open `MainScene.unity` in Unity. You should see a textured plane object on the screen. Currently the ‘Standard’ Unity shader is applied to the plane. Your first task is to assign the shader `WaveShader.shader` to the plane. This can be done without any code. Recall that shaders are part of an object’s material.
 
 <p align="center">
   <img src="Gifs/Q1.png" width="500">
